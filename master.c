@@ -3,6 +3,6 @@
 int main()
 {
 	printf("master\n");
-	pritf("editing from laptop");
+	printf("editing from laptop\n");
 	return 0;
 }
