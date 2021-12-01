@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main()
-{	printf("editing in NUC"\n);
+{	printf("editing in NUC\n");
 <<<<<<< HEAD
 	printf("master\n");
 =======
